@@ -4,12 +4,17 @@ A
 approval  批准 同意 赞成
 agreement  协议 合同 承诺
 availability  可利用性
+artificial  人造的 artificial intelligence AI
 
 B
+braces  括弧
+
 
 C
 compliance 承诺
 compliant  （与系列规则相）符合的 compliant update
+chain 链
+cause  原因 导致
 
 D
 discard  丢弃 放弃
@@ -17,6 +22,8 @@ discard  丢弃 放弃
 
 E
 explicitly 明确地
+emergency 紧急事情  in emergency
+entry  条目
 
 F
 functionality 功能
@@ -27,6 +34,9 @@ H
 
 I
 interruption 中断
+initial  最初的
+initialize  初始化
+icon  图标
 
 J
 
@@ -34,8 +44,11 @@ K
 
 L
 license 许可 执照  license agreement
+intelligence  智力 情报
 
 M
+modify  修改
+
 
 N
 notify   通知
@@ -43,21 +56,28 @@ notify   通知
 O
 
 P
+phase  阶段 时期
+pane  窗格
 
 Q
 
 R
 review  评论 检查
 reply 回复
+reactor  反应堆
 
 S
 section 部分 章节
+studio  工作室
 
 T
 
 U
 
 V
+validate  验证
+verify 校验 
+
 
 W
 
