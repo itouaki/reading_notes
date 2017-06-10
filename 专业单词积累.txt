@@ -11,10 +11,12 @@ braces  括弧
 
 
 C
+comment  评论 注解
 compliance 承诺
 compliant  （与系列规则相）符合的 compliant update
 chain 链
 cause  原因 导致
+correspond  对应 相关
 
 D
 discard  丢弃 放弃
@@ -24,11 +26,13 @@ E
 explicitly 明确地
 emergency 紧急事情  in emergency
 entry  条目
+external  外部 external browser
 
 F
 functionality 功能
 
 G
+gutter  沟
 
 H
 
@@ -37,6 +41,7 @@ interruption 中断
 initial  最初的
 initialize  初始化
 icon  图标
+inspection  检查
 
 J
 
@@ -65,10 +70,12 @@ R
 review  评论 检查
 reply 回复
 reactor  反应堆
+reveal  展示
 
 S
 section 部分 章节
 studio  工作室
+simplify  简化
 
 T
 
