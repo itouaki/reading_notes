@@ -30,7 +30,7 @@ emergency 紧急事情  in emergency
 entry  条目
 external  外部的 external browser
 explorer  资源管理器 
-
+exclude  排除
 F
 functionality 功能
 
@@ -46,6 +46,7 @@ initialize  初始化
 icon  图标
 inspection  检查
 indispensable  必不可少的
+improvement  改进
 
 J
 
@@ -57,6 +58,7 @@ intelligence  智力 情报
 
 M
 modify  修改
+modifications  修改
 mere  只 不过
 
 N
@@ -84,6 +86,7 @@ studio  工作室
 simplify  简化
 slash  斜杠
 specify  指定
+summary  摘要
 
 T　
 
