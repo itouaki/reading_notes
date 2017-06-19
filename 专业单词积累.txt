@@ -31,6 +31,8 @@ entry  条目
 external  外部的 external browser
 explorer  资源管理器 
 exclude  排除
+encounter  遭遇
+
 F
 functionality 功能
 
@@ -70,6 +72,7 @@ P
 phase  阶段 时期
 pane  窗格
 parameter  参数
+preview  预览
 
 Q
 
