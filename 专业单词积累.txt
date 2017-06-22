@@ -5,6 +5,7 @@ approval  批准 同意 赞成
 agreement  协议 合同 承诺
 availability  可利用性
 artificial  人造的 artificial intelligence AI
+affiliated  附属
 
 B
 braces  括弧
@@ -32,6 +33,7 @@ external  外部的 external browser
 explorer  资源管理器 
 exclude  排除
 encounter  遭遇
+echo  回响
 
 F
 functionality 功能
