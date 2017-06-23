@@ -23,6 +23,7 @@ colon  冒号
 D
 discard  丢弃 放弃
 delimiter  分隔符
+dock  码头
 
 
 E
@@ -84,6 +85,7 @@ reply 回复
 reactor  反应堆
 reveal  展示
 relevant  相应
+recursively  递归的
 
 S
 section 部分 章节
