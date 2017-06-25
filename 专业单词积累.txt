@@ -35,6 +35,8 @@ explorer  资源管理器
 exclude  排除
 encounter  遭遇
 echo  回响
+embed  镶嵌
+
 
 F
 functionality 功能
@@ -43,6 +45,8 @@ G
 gutter  沟
 
 H
+horizontal 水平
+
 
 I
 interruption 中断
