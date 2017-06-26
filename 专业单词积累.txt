@@ -45,7 +45,7 @@ G
 gutter  沟
 
 H
-horizontal 水平
+horizontal 水平的
 
 
 I
@@ -90,6 +90,7 @@ reactor  反应堆
 reveal  展示
 relevant  相应
 recursively  递归的
+register  寄存器
 
 S
 section 部分 章节
