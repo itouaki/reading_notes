@@ -19,6 +19,7 @@ chain 链
 cause  原因 导致
 correspond  对应 相关
 colon  冒号
+collapse  崩溃 倒闭collapse all
 
 D
 discard  丢弃 放弃
@@ -36,6 +37,7 @@ exclude  排除
 encounter  遭遇
 echo  回响
 embed  镶嵌
+ease  缓解
 
 
 F
@@ -79,7 +81,8 @@ P
 phase  阶段 时期
 pane  窗格
 parameter  参数
-preview  预览
+preview  预览 
+prefix  词头
 
 Q
 
@@ -99,6 +102,7 @@ simplify  简化
 slash  斜杠
 specify  指定
 summary  摘要
+suppress  压制 平息
 
 T　
 
