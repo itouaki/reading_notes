@@ -25,7 +25,7 @@ D
 discard  丢弃 放弃
 delimiter  分隔符
 dock  码头
-
+detect  检测
 
 E
 explicitly 明确地
@@ -75,6 +75,7 @@ mere  只 不过
 N
 notify   通知
 nested  嵌套
+negate  否定
 O
 
 P
