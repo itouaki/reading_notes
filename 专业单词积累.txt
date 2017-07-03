@@ -20,6 +20,7 @@ cause  原因 导致
 correspond  对应 相关
 colon  冒号
 collapse  崩溃 倒闭collapse all
+captcha  验证码
 
 D
 discard  丢弃 放弃
@@ -90,6 +91,7 @@ Q
 R
 review  评论 检查
 reply 回复
+react 反应	
 reactor  反应堆
 reveal  展示
 relevant  相应
@@ -106,12 +108,14 @@ summary  摘要
 suppress  压制 平息
 
 T　
+thyme  百里香
 
 U
 
 V
 validate  验证
-verify 校验 
+verify 校验
+velocity  速度 
 
 
 W
