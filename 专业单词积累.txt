@@ -4,6 +4,7 @@ A
 approval  批准 同意 赞成
 agreement  协议 合同 承诺
 availability  可利用性
+accessible  可接近的
 artificial  人造的 artificial intelligence AI
 affiliated  附属
 
