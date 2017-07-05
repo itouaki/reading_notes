@@ -78,6 +78,8 @@ N
 notify   通知
 nested  嵌套
 negate  否定
+
+
 O
 
 P
@@ -86,6 +88,7 @@ pane  窗格
 parameter  参数
 preview  预览 
 prefix  词头
+prototype  原型
 
 Q
 
@@ -107,6 +110,7 @@ slash  斜杠
 specify  指定
 summary  摘要
 suppress  压制 平息
+scratch  抓取
 
 T　
 thyme  百里香
