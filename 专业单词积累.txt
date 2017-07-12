@@ -40,10 +40,12 @@ encounter  遭遇
 echo  回响
 embed  镶嵌
 ease  缓解
+exhibite  展览
 
 
 F
 functionality 功能
+fetch  取
 
 G
 gutter  沟
@@ -89,6 +91,7 @@ parameter  参数
 preview  预览 
 prefix  词头
 prototype  原型
+parse  解析
 
 Q
 
@@ -101,6 +104,8 @@ reveal  展示
 relevant  相应
 recursively  递归的
 register  寄存器
+revision  调整
+release  发布
 
 S
 section 部分 章节
