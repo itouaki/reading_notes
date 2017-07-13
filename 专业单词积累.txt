@@ -41,6 +41,7 @@ echo  回响
 embed  镶嵌
 ease  缓解
 exhibite  展览
+exact  精确
 
 
 F
@@ -62,6 +63,7 @@ icon  图标
 inspection  检查
 indispensable  必不可少的
 improvement  改进
+informative  有用信息
 
 J
 
