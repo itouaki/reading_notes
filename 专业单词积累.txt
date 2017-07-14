@@ -53,6 +53,7 @@ gutter  沟
 
 H
 horizontal 水平的
+hover  悬停
 
 
 I
@@ -72,6 +73,7 @@ K
 L
 license 许可 执照  license agreement
 intelligence  智力 情报
+lens  镜头
 
 M
 modify  修改
@@ -108,16 +110,19 @@ recursively  递归的
 register  寄存器
 revision  调整
 release  发布
+revert   还原
 
 S
 section 部分 章节
 studio  工作室
+simply  简单地 		
 simplify  简化
 slash  斜杠
 specify  指定
 summary  摘要
 suppress  压制 平息
 scratch  抓取
+stripe 条纹
 
 T　
 thyme  百里香
