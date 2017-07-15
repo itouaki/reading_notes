@@ -10,6 +10,7 @@ affiliated  附属
 
 B
 braces  括弧
+bottom  底部
 
 
 C
