@@ -7,6 +7,7 @@ availability  可利用性
 accessible  可接近的
 artificial  人造的 artificial intelligence AI
 affiliated  附属
+annotate 注释 批注
 
 B
 braces  括弧
@@ -23,12 +24,14 @@ correspond  对应 相关
 colon  冒号
 collapse  崩溃 倒闭collapse all
 captcha  验证码
+capacity  容量
 
 D
 discard  丢弃 放弃
 delimiter  分隔符
 dock  码头
 detect  检测
+DVD burner  DVD刻录机
 
 E
 explicitly 明确地
@@ -48,6 +51,7 @@ exact  精确
 F
 functionality 功能
 fetch  取
+floppy
 
 G
 gutter  沟
@@ -55,6 +59,7 @@ gutter  沟
 H
 horizontal 水平的
 hover  悬停
+hard drive	硬盘
 
 
 I
@@ -80,6 +85,8 @@ M
 modify  修改
 modifications  修改
 mere  只 不过
+manufacturers  制造商
+monitor  显示器
 
 N
 notify   通知
@@ -123,7 +130,8 @@ specify  指定
 summary  摘要
 suppress  压制 平息
 scratch  抓取
-stripe 条纹
+stripe  条纹
+sqlite  源码
 
 T　
 thyme  百里香
@@ -137,13 +145,15 @@ velocity  速度
 
 
 W
+Warehouses 仓库
+
 
 X
 
 Y
 
 Z
-
+zip  压缩
 
 
 
