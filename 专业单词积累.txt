@@ -104,6 +104,8 @@ preview  预览
 prefix  词头
 prototype  原型
 parse  解析
+propagate 宣传
+
 
 Q
 
