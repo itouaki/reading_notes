@@ -8,11 +8,14 @@ accessible  可接近的
 artificial  人造的 artificial intelligence AI
 affiliated  附属
 annotate 注释 批注
+accessors  存取
+approach  途径
+archive  存档
 
 B
 braces  括弧
 bottom  底部
-
+bypass  绕过
 
 C
 comment  评论 注解
@@ -25,6 +28,9 @@ colon  冒号
 collapse  崩溃 倒闭collapse all
 captcha  验证码
 capacity  容量
+concise  简洁
+converted  转换
+convenience 方便	
 
 D
 discard  丢弃 放弃
@@ -55,6 +61,7 @@ floppy
 
 G
 gutter  沟
+gateway  网关
 
 H
 horizontal 水平的
@@ -71,6 +78,9 @@ inspection  检查
 indispensable  必不可少的
 improvement  改进
 informative  有用信息
+interaction  交互
+identifier 识别符
+interval  间隔
 
 J
 
@@ -80,6 +90,7 @@ L
 license 许可 执照  license agreement
 intelligence  智力 情报
 lens  镜头
+lifecycle  周期
 
 M
 modify  修改
@@ -92,7 +103,7 @@ N
 notify   通知
 nested  嵌套
 negate  否定
-
+narrow  缩小
 
 O
 
@@ -105,6 +116,7 @@ prefix  词头
 prototype  原型
 parse  解析
 propagate 宣传
+prerequisites  前提
 
 
 Q
@@ -134,9 +146,12 @@ suppress  压制 平息
 scratch  抓取
 stripe  条纹
 sqlite  源码
+sophisticated  复杂的
 
 T　
 thyme  百里香
+template  模块
+throughout  整个
 
 U
 
