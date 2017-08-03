@@ -38,6 +38,7 @@ delimiter  分隔符
 dock  码头
 detect  检测
 DVD burner  DVD刻录机
+diagrams  图
 
 E
 explicitly 明确地
@@ -117,6 +118,7 @@ prototype  原型
 parse  解析
 propagate 宣传
 prerequisites  前提
+panel  面板
 
 
 Q
