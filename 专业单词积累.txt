@@ -31,6 +31,7 @@ capacity  容量
 concise  简洁
 converted  转换
 convenience 方便	
+constituent 组成
 
 D
 discard  丢弃 放弃
@@ -50,9 +51,11 @@ exclude  排除
 encounter  遭遇
 echo  回响
 embed  镶嵌
+embrace  拥抱
 ease  缓解
 exhibite  展览
 exact  精确
+explore  浏览
 
 
 F
@@ -149,6 +152,8 @@ scratch  抓取
 stripe  条纹
 sqlite  源码
 sophisticated  复杂的
+slot  插槽
+statement  声明 陈述
 
 T　
 thyme  百里香
