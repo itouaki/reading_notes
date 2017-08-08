@@ -85,6 +85,7 @@ informative  有用信息
 interaction  交互
 identifier 识别符
 interval  间隔
+immutable  一成不变
 
 J
 
