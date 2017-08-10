@@ -32,6 +32,7 @@ concise  简洁
 converted  转换
 convenience 方便	
 constituent 组成
+compose  编写
 
 D
 discard  丢弃 放弃
