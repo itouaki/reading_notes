@@ -1,175 +1,178 @@
 
 
 A
-approval  批准 同意 赞成
-agreement  协议 合同 承诺
-availability  可利用性
 accessible  可接近的
-artificial  人造的 artificial intelligence AI
-affiliated  附属
-annotate 注释 批注
 accessors  存取
+affiliated  附属
+agreement  协议 合同 承诺
+annotate 注释 批注
 approach  途径
+approval  批准 同意 赞成
 archive  存档
+artificial  人造的 artificial intelligence AI
+availability  可利用性
 
 B
-braces  括弧
 bottom  底部
+braces  括弧
 bypass  绕过
 
 C
-comment  评论 注解
+cause  原因 导致
+capacity  容量
+captcha  验证码
+chain 链
+collapse  崩溃 倒闭collapse all
+colon  冒号
 command  命令
+comment  评论 注解
 compliance 承诺
 compliant  （与系列规则相）符合的 compliant update
-chain 链
-cause  原因 导致
-correspond  对应 相关
-colon  冒号
-collapse  崩溃 倒闭collapse all
-captcha  验证码
-capacity  容量
-concise  简洁
-converted  转换
-convenience 方便	
-constituent 组成
 compose  编写
+concise  简洁
+constituent 组成
+console  控制台
+convenience 方便	
+converted  转换
+correspond  对应 相关
+
 
 D
-discard  丢弃 放弃
 delimiter  分隔符
-dock  码头
 detect  检测
-DVD burner  DVD刻录机
+discard  丢弃 放弃
 diagrams  图
+dock  码头
+DVD burner  DVD刻录机
 
 E
-explicitly 明确地
-emergency 紧急事情  in emergency
-entry  条目
-external  外部的 external browser
-explorer  资源管理器 
-exclude  排除
-encounter  遭遇
+ease  缓解
 echo  回响
 embed  镶嵌
 embrace  拥抱
-ease  缓解
-exhibite  展览
+emergency 紧急事情  in emergency
+encounter  遭遇
+entry  条目
 exact  精确
+exclude  排除
+exhibite  展览
+explicitly 明确地
 explore  浏览
+explorer  资源管理器 
+external  外部的 external browser
 
 
 F
-functionality 功能
 fetch  取
 floppy
+functionality 功能
 
 G
-gutter  沟
 gateway  网关
+gutter  沟
 
 H
+hard drive	硬盘
 horizontal 水平的
 hover  悬停
-hard drive	硬盘
 
 
 I
-interruption 中断
+icon  图标
+identifier 识别符
+immutable  一成不变
+improvement  改进
+indispensable  必不可少的
+informative  有用信息
 initial  最初的
 initialize  初始化
-icon  图标
 inspection  检查
-indispensable  必不可少的
-improvement  改进
-informative  有用信息
+integration  集成
 interaction  交互
-identifier 识别符
+interruption 中断
 interval  间隔
-immutable  一成不变
 
 J
 
 K
 
 L
-license 许可 执照  license agreement
-intelligence  智力 情报
 lens  镜头
+license 许可 执照  license agreement
 lifecycle  周期
+intelligence  智力 情报
 
 M
-modify  修改
-modifications  修改
-mere  只 不过
 manufacturers  制造商
+mere  只 不过
+modifications  修改
+modify  修改
 monitor  显示器
 
 N
-notify   通知
-nested  嵌套
-negate  否定
 narrow  缩小
+negate  否定
+nested  嵌套
+notify   通知
 
 O
 
 P
-phase  阶段 时期
 pane  窗格
-parameter  参数
-preview  预览 
-prefix  词头
-prototype  原型
-parse  解析
-propagate 宣传
-prerequisites  前提
 panel  面板
+parameter  参数
+parse  解析
+phase  阶段 时期
+prefix  词头
+preview  预览 
+prerequisites  前提
+propagate 宣传
+prototype  原型
 
 
 Q
 
 R
-review  评论 检查
-reply 回复
 react 反应	
 reactor  反应堆
-reveal  展示
-relevant  相应
 recursively  递归的
 register  寄存器
-revision  调整
 release  发布
+relevant  相应
+reply 回复
+reveal  展示
 revert   还原
+review  评论 检查
+revision  调整
 
 S
+scratch  抓取
 section 部分 章节
-studio  工作室
-simply  简单地 		
 simplify  简化
+simply  简单地 		
 slash  斜杠
+slot  插槽
+sophisticated  复杂的
+specification  规范
 specify  指定
+sqlite  源码
+stripe  条纹
+studio  工作室
+statement  声明 陈述
 summary  摘要
 suppress  压制 平息
-scratch  抓取
-stripe  条纹
-sqlite  源码
-sophisticated  复杂的
-slot  插槽
-statement  声明 陈述
-specification  规范
 
 T　
-thyme  百里香
 template  模块
 throughout  整个
+thyme  百里香
 
 U
 
 V
 validate  验证
-verify 校验
 velocity  速度 
+verify 校验
 
 
 W
