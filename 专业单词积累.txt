@@ -19,6 +19,7 @@ bypass  绕过
 
 C
 comment  评论 注解
+command  命令
 compliance 承诺
 compliant  （与系列规则相）符合的 compliant update
 chain 链
@@ -156,6 +157,7 @@ sqlite  源码
 sophisticated  复杂的
 slot  插槽
 statement  声明 陈述
+specification  规范
 
 T　
 thyme  百里香
