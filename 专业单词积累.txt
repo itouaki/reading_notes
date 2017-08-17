@@ -103,6 +103,7 @@ lifecycle  周期
 intelligence  智力 情报
 
 M
+manually  用手地,手工地
 manufacturers  制造商
 mere  只 不过
 modifications  修改
@@ -128,6 +129,7 @@ preview  预览
 prerequisites  前提
 propagate 宣传
 prototype  原型
+proxy  代理
 
 
 Q
