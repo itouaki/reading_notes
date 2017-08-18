@@ -146,6 +146,7 @@ reveal  展示
 revert   还原
 review  评论 检查
 revision  调整
+revive  复活
 
 S
 scratch  抓取
