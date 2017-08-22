@@ -3,6 +3,7 @@
 A
 accessible  可接近的
 accessors  存取
+accidental  偶然
 affiliated  附属
 agreement  协议 合同 承诺
 annotate 注释 批注
@@ -91,6 +92,7 @@ inspection  检查
 integration  集成
 intended  预期的
 interaction  交互
+internal  内部的
 interruption 中断
 interval  间隔
 
@@ -145,6 +147,7 @@ register  寄存器
 release  发布
 relevant  相应
 reply 回复
+resolver  解析器
 reveal  展示
 revert   还原
 review  评论 检查
