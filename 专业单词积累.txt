@@ -36,6 +36,7 @@ console  控制台
 convenience 方便	
 converted  转换
 correspond  对应 相关
+cryptography  加密
 
 
 D
@@ -132,6 +133,7 @@ pitfall  缺陷
 prefix  词头
 preview  预览 
 prerequisites  前提
+profile  轮廓 侧面
 propagate 宣传
 prototype  原型
 proxy  代理
