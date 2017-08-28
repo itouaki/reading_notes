@@ -1,6 +1,7 @@
 
 
 A
+access  访问
 accessible  可接近的
 accessors  存取
 accidental  偶然
@@ -177,6 +178,8 @@ T　
 template  模块
 throughout  整个
 thyme  百里香
+transpose  颠倒
+transient  瞬时的
 
 U
 
