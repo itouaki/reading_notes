@@ -1,0 +1,25 @@
+
+#潘德尔的巫师
+
+guard  守卫
+witch  巫师
+hill  山
+cried  号叫
+pedlar  小贩
+curse  诅咒
+servant  仆人
+hall  大厅    
+clay  粘土 
+trial  审判
+
+#歌剧院幽灵
+
+ghost  鬼
+passage  通道
+pooh  呸
+rope  绳
+toad  蟾蜍
+chandelier  吊灯
+phantom  幻影
+stare  盯
+stair  楼梯
