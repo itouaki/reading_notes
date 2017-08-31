@@ -23,3 +23,33 @@ chandelier  吊灯
 phantom  幻影
 stare  盯
 stair  楼梯
+
+#猴爪
+
+look up 抬头
+soldier  士兵
+candle  蜡烛
+cemetery  墓地
+downstairs  楼下
+machinery  机械
+
+#世界上最冷的地方
+
+race  比赛
+South Pole  南极
+skier  滑雪者
+pony  小马
+motor sledges  电动雪橇
+depot  仓库
+Antarctic   南极洲
+skis  滑雪板
+Centigrade  摄氏
+tent  帐篷
+boot  靴子
+kilometres  公里
+diary  日记
+
+
+
+
+
