@@ -1,3 +1,3 @@
 # reading_notes
 
-this project is created for maker to review the knowledge.
+this project is created for author to review the knowledge.

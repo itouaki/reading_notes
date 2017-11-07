@@ -10,20 +10,25 @@ agreement  协议 合同 承诺
 annotate 注释 批注
 approach  途径
 approval  批准 同意 赞成
+arbitrarily  任意地
 archive  存档
 artificial  人造的 artificial intelligence AI
 availability  可利用性
 
 B
+boarding  登机
 bottom  底部
 braces  括弧
 bypass  绕过
 
 C
+cabin  舱
 cause  原因 导致
 capacity  容量
 captcha  验证码
+cert  证件
 chain 链
+cluster  簇（集群）
 collapse  崩溃 倒闭collapse all
 colon  冒号
 command  命令
@@ -37,13 +42,17 @@ console  控制台
 convenience 方便	
 converted  转换
 correspond  对应 相关
+coupon  优惠券
 cryptography  加密
 
 
 D
 delimiter  分隔符
 detect  检测
+dept  部门
+destination  目的地
 discard  丢弃 放弃
+distributed  分布式
 diagrams  图
 dock  码头
 DVD burner  DVD刻录机
@@ -54,6 +63,7 @@ echo  回响
 embed  镶嵌
 embrace  拥抱
 emergency 紧急事情  in emergency
+emit  发射
 encounter  遭遇
 entry  条目
 exact  精确
@@ -77,7 +87,8 @@ guarantee  保证
 
 H
 hard drive	硬盘
-horizontal 水平的
+heap  堆
+horizontal  水平的
 hover  悬停
 
 
@@ -91,7 +102,7 @@ informative  有用信息
 initial  最初的
 initialize  初始化
 inspection  检查
-integration  集成
+integrate  集成
 intended  预期的
 interaction  交互
 internal  内部的
@@ -120,6 +131,7 @@ N
 narrow  缩小
 negate  否定
 nested  嵌套
+nimbus  雨云
 notify   通知
 
 O
@@ -158,6 +170,7 @@ revision  调整
 revive  复活
 
 S
+scalable  可扩展的
 scratch  抓取
 section 部分 章节
 simplify  简化
@@ -167,21 +180,27 @@ slot  插槽
 sophisticated  复杂的
 specification  规范
 specify  指定
+spout  喷口
 sqlite  源码
 stripe  条纹
 studio  工作室
 statement  声明 陈述
 summary  摘要
+supervisor 管理者
 suppress  压制 平息
 
 T　
 template  模块
 throughout  整个
 thyme  百里香
+topology  拓扑
 transpose  颠倒
 transient  瞬时的
+tuple  元组
 
 U
+usage 运用
+
 
 V
 validate  验证
